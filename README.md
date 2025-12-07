@@ -14,7 +14,7 @@ Make sure you have installed:
 ### 1. Clone or Download Project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/adimasmudi/chatchit.git
 cd chatchit
 ```
 
